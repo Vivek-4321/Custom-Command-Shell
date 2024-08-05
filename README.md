@@ -27,12 +27,14 @@ CCSH is a custom command shell implemented in Node.js. It provides an interactiv
 2. Save the provided code in a file named `ccsh.js`.
 3. Open a terminal and navigate to the directory containing `ccsh.js`.
 4. Run the shell using the command:
+
    ```
    node ccsh.js
    ```
+
 5. You should see the CCSH prompt: `ccsh>` 🎉
 
-## 3. Features 🌈
+## 3. Features 🪄
 
 ### 3.1 Basic Command Execution ⚡
 
